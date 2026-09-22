@@ -1,4 +1,5 @@
-# Agri_Financial_Analytics_Dataset_Project-
+# Agricultural Financial & Seasonal Performance Analytics
+
 **AICTE | IBM SkillsBuild Academic Internship — Data Analytics with AI**
 
 ## Project Overview
